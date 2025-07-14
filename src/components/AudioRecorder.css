@@ -1,0 +1,15 @@
+.audio-button {
+  margin-right: 8px;
+  padding: 6px 10px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.audio-button.gravando {
+  background-color: #c82333; /* vermelho */
+  font-weight: bold;
+}
